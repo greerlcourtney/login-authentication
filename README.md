@@ -3,4 +3,4 @@ Project 1: Something as simple as a website’s login authentication bar (the ar
 
 
 Hello World!
- My name is Courtner and I am on a journey back to tech. Right now I am learning javascript. I like long walks on the beach, tacos and crying over techno music. 
+ My name is Courtney and I am on a journey back to tech. Right now I am learning javascript. I like long walks on the beach, tacos and crying over techno music. 
